@@ -1,0 +1,6 @@
+[package]
+name = "stock_valuation"
+version = "0.1.0"
+authors = ["sv71294 <sv71294@gmail.com>"]
+
+[dependencies]
